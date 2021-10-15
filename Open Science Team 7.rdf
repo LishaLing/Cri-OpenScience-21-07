@@ -1,0 +1,205 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Document rdf:about="https://www.humanbrainproject.eu/en/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_10"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.humanbrainproject.eu/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:07:41</dcterms:dateSubmitted>
+        <dc:title>Human Brain Project Home</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.humanbrainproject.eu/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:07:46</dcterms:dateSubmitted>
+        <dc:title>Human Brain Project Home</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://kiron.ngo/en/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://kiron.ngo/en/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:08:03</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://eventhorizontelescope.org/home">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_13"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://eventhorizontelescope.org/home</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:08:50</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dc:title>Event Horizon Telescope</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://eventhorizontelescope.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:09:00</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://sciencefeedback.co/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_15"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sciencefeedback.co/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:09:14</dcterms:dateSubmitted>
+        <dc:title>Science Feedback – A Scientific Reference to Reliable Information Online</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sciencefeedback.co/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:09:20</dcterms:dateSubmitted>
+        <dc:title>Science Feedback – A Scientific Reference to Reliable Information Online</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://openworm.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_17"/>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://openworm.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:09:37</dcterms:dateSubmitted>
+        <dc:title>OpenWorm</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://openworm.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:09:45</dcterms:dateSubmitted>
+        <dc:title>OpenWorm</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://safecast.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Safecast</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_19"/>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://safecast.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:10:04</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dcterms:abstract>Safecast is an international volunteer driven non-profit organization whose goal is to create useful, accessible, and granular environmental data. All Safecast data is published, free of charge, into the public domain under a CC0 designation.</dcterms:abstract>
+        <dc:title>Safecast</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://safecast.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:10:09</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://sensebox.de/en/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>senseBox.de</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_21"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sensebox.de/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:10:23</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Your toolkit for digital education, citizen science and environmental monitoring</dcterms:abstract>
+        <dc:title>Home</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sensebox.de/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:10:30</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_22">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_23"/>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://kiron.ngo/en/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:11:42</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://kiron.ngo/en/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:11:52</dcterms:dateSubmitted>
+        <dc:title>https://kiron.ngo/en/</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://kiron.ngo">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://kiron.ngo</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-14 11:12:01</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Open Higher Education for Refugees Kiron enables access to higher education and successful learning for refugees through digital solutions.</dcterms:abstract>
+        <dc:title>Kiron Open Higher Education for Refugees - Kiron</dc:title>
+    </bib:Document>
+</rdf:RDF>
